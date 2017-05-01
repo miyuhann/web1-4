@@ -17,3 +17,6 @@ p{
 a{
   color:#df4839;
 }
+a:hover{
+    color: #ff705b; 
+}
