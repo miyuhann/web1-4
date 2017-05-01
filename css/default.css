@@ -2,7 +2,7 @@ body{
     background-color: #fbf9cc; 
     background-image:url(../img/DSC_0142.JPG);
 }
-h1{
+h1:first-line{
     font-weight:900;
     color: #3399cc;
 }
