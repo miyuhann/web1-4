@@ -18,3 +18,8 @@ p{
 h3{
     color: #d0e35b;
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
