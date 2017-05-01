@@ -3,6 +3,7 @@ body{
     background-image:url(../img/DSC_0142.JPG);
 }
 h1:first-letter{
+    font-size: 3.8em;
     color: #3399cc;
 }
 h2{
